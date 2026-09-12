@@ -1,18 +1,20 @@
-# Manu
+# Manu Jimenez
 
-Professional audio software for macOS.
+Touring FOH, broadcast audio, and real-time audio systems.
 
-I work on real-time audio systems for live sound and broadcast — environments where the software runs for twelve hours straight and a single dropout is unacceptable. Most of that is Swift against Core Audio and AudioUnits, with a lot of attention paid to the parts that fail quietly: clock drift, sample-accurate timing, timecode correctness across midnight and drop-frame boundaries.
+I am a Los Angeles audio engineer with 25 years of experience across touring, live production, broadcast, mixing, mastering, and Dolby Atmos. The software here comes from that production work: tools built for environments where timing, stability, and recovery matter more than novelty.
 
-### Focus
+[manuaudio.com](https://manuaudio.com/)
 
-**Real-time audio** — low-latency engines, multitrack capture and playback, plugin hosting, metering and loudness measurement.
+### Audio systems
 
-**Synchronisation** — LTC and MTC generation and capture, drift measurement against wall clock, drop-frame handling, timecode- and time-of-day-driven playback.
+**Real-time audio:** low-latency engines, multitrack capture and playback, plugin hosting, metering, and loudness measurement.
 
-**Console and hardware integration** — digital mixing console control and automation, network audio transport, control-surface protocols.
+**Synchronization:** LTC and MTC generation and capture, drift measurement, drop-frame handling, and timecode-driven playback.
 
-**Tooling** — build and test infrastructure for audio software, where correctness has to be proven on real hardware rather than inferred from a passing unit test.
+**Console and hardware integration:** digital mixing console control, automation, network audio transport, and control-surface protocols.
+
+**Production tooling:** systems tested against real hardware and show conditions, not only unit tests.
 
 ### Open source
 
