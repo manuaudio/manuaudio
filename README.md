@@ -18,7 +18,7 @@ I am a Los Angeles audio engineer with 25 years of experience across touring, li
 
 ### Open source
 
-Contributor to [Orca](https://github.com/stablyai/orca), an agent development environment for running coding agents in parallel.
+Contributor to [Omarchy](https://github.com/omacom/omarchy)
 
 ### Stack
 
