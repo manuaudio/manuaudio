@@ -1,25 +1,33 @@
 # Manu Jimenez
 
-Touring FOH, broadcast audio, and real-time audio systems.
+Audio engineer building real-time tools, automation, and open-source fixes.
 
-I am a Los Angeles audio engineer with 25 years of experience across touring, live production, broadcast, mixing, mastering, and Dolby Atmos. The software here comes from that production work: tools built for environments where timing, stability, and recovery matter more than novelty.
+I have spent 25 years working across touring, live production, broadcast, mixing, mastering, and Dolby Atmos. I came to software through the systems I use every day: when a production problem keeps coming back, I build the tool I wish I had.
+
+Most of my work sits where audio meets software: low-latency processing, synchronization, hardware control, capture and playback, and operational tooling that has to recover cleanly under show conditions.
+
+I use AI as part of my development workflow, but I own the problem selection, testing, review, and final result. I care more about fixes that survive real use and maintainer review than code volume.
 
 [manuaudio.com](https://manuaudio.com/)
 
-### Audio systems
+## Open source
 
-**Real-time audio:** low-latency engines, multitrack capture and playback, plugin hosting, metering, and loudness measurement.
+My upstream contributions have landed in projects including:
 
-**Synchronization:** LTC and MTC generation and capture, drift measurement, drop-frame handling, and timecode-driven playback.
+- [Omarchy](https://github.com/omacom/omarchy) and [Omarchy Packages](https://github.com/omacom/omarchy-pkgs)
+- [Surge XT](https://github.com/surge-synthesizer/surge) and its supporting audio libraries
+- [TagLib](https://github.com/taglib/taglib)
+- [Orca](https://github.com/stablyai/orca)
 
-**Console and hardware integration:** digital mixing console control, automation, network audio transport, and control-surface protocols.
+The work includes parser hardening, bounds validation, undefined-behavior fixes, CI repairs, and Linux desktop integration. I keep patches narrow, add focused regression coverage, and stay involved through review and merge.
 
-**Production tooling:** systems tested against real hardware and show conditions, not only unit tests.
+## Audio systems
 
-### Open source
+- **Real-time audio:** low-latency engines, multitrack capture and playback, plugin hosting, metering, and loudness measurement
+- **Synchronization:** LTC and MTC generation and capture, drift measurement, drop-frame handling, and timecode-driven playback
+- **Console and hardware integration:** digital mixing console control, automation, network audio transport, and control-surface protocols
+- **Production tooling:** systems tested against real hardware and show conditions, not only unit tests
 
-Contributor to [Omarchy](https://github.com/omacom/omarchy)
+## Working stack
 
-### Stack
-
-Swift · Core Audio · AudioUnits · SwiftUI · TypeScript · Python
+Swift · Core Audio · AudioUnits · SwiftUI · C++ · Go · Rust · TypeScript · Python · Linux
