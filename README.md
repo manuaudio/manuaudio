@@ -21,6 +21,23 @@ My upstream contributions have landed in projects including:
 
 The work includes parser hardening, bounds validation, undefined-behavior fixes, CI repairs, and Linux desktop integration. I keep patches narrow, add focused regression coverage, and stay involved through review and merge.
 
+<!-- merged-upstream:start -->
+## Merged upstream
+
+**41 pull requests merged** into 14 projects since August 2026, median 1.6 days to merge, 15 open now. [Every one of them](https://manuaudio.com/open-source/).
+
+| Project | Merged |
+|---|---|
+| [omacom/omarchy](https://github.com/omacom/omarchy) | 9 |
+| [surge-synthesizer/surge](https://github.com/surge-synthesizer/surge) | 9 |
+| [taglib/taglib](https://github.com/taglib/taglib) | 5 |
+| [surge-synthesizer/tuning-library](https://github.com/surge-synthesizer/tuning-library) | 3 |
+| [bitfocus/companion-module-waves-lv1](https://github.com/bitfocus/companion-module-waves-lv1) | 3 |
+| [surge-synthesizer/sst-basic-blocks](https://github.com/surge-synthesizer/sst-basic-blocks) | 2 |
+| [surge-synthesizer/sst-effects](https://github.com/surge-synthesizer/sst-effects) | 2 |
+| [surge-synthesizer/sst-plugininfra](https://github.com/surge-synthesizer/sst-plugininfra) | 2 |
+<!-- merged-upstream:end -->
+
 ## Audio systems
 
 - **Real-time audio:** low-latency engines, multitrack capture and playback, plugin hosting, metering, and loudness measurement
