@@ -24,7 +24,7 @@ The work includes parser hardening, bounds validation, undefined-behavior fixes,
 <!-- merged-upstream:start -->
 ## Merged upstream
 
-**41 pull requests merged** into 14 projects since August 2026, median 1.6 days to merge, 15 open now. [Every one of them](https://manuaudio.com/open-source/).
+**42 pull requests merged** into 15 projects since August 2026, median 1.6 days to merge, 14 open now. [Every one of them](https://manuaudio.com/open-source/).
 
 | Project | Merged |
 |---|---|
