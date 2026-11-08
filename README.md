@@ -24,7 +24,7 @@ The work includes parser hardening, bounds validation, undefined-behavior fixes,
 <!-- merged-upstream:start -->
 ## Merged upstream
 
-**42 pull requests merged** into 15 projects since August 2026, median 1.6 days to merge, 14 open now. [Every one of them](https://manuaudio.com/open-source/).
+**42 pull requests merged** into 15 projects since August 2026, median 1.6 days to merge, 11 open now. [Every one of them](https://manuaudio.com/open-source/).
 
 | Project | Merged |
 |---|---|
@@ -36,6 +36,16 @@ The work includes parser hardening, bounds validation, undefined-behavior fixes,
 | [surge-synthesizer/sst-basic-blocks](https://github.com/surge-synthesizer/sst-basic-blocks) | 2 |
 | [surge-synthesizer/sst-effects](https://github.com/surge-synthesizer/sst-effects) | 2 |
 | [surge-synthesizer/sst-plugininfra](https://github.com/surge-synthesizer/sst-plugininfra) | 2 |
+
+**In review now**
+
+- [omacom/omarchy#14001](https://github.com/omacom/omarchy/pull/14001) Fall back to glcore in RetroArch when no GPU provides Vulkan
+- [omacom/omarchy#14038](https://github.com/omacom/omarchy/pull/14038) Only count this user's hyprsunset as running for night light
+- [omacom/omarchy#14182](https://github.com/omacom/omarchy/pull/14182) Keep Taildrop home shorthand on literal directory boundaries
+- [omacom/omarchy#17520](https://github.com/omacom/omarchy/pull/17520) Let PipeWire follow the source's sample rate
+- [ExistentialAudio/BlackHole#899](https://github.com/ExistentialAudio/BlackHole/pull/899) Make the shared IO state in DoIOOperation atomic
+- [bjarneo/cliamp#698](https://github.com/bjarneo/cliamp/pull/698) Fix: The radio playlist are limited to 200 tracks
+- [bjarneo/cliamp#700](https://github.com/bjarneo/cliamp/pull/700) Fix: keep stored playlist order when shuffled
 <!-- merged-upstream:end -->
 
 ## Audio systems
